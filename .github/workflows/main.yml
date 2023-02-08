@@ -9,7 +9,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
-      with:
+      with:  
         server: files.000webhost.com
         username: sofianemaimouneepsii1
         password: SKPD5AEGD8@uEDOooLYx
