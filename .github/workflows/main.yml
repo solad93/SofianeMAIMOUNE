@@ -11,6 +11,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:  
         server: files.000webhost.com
-        username: SofianeMAIMOUNEEPSII1
-        password: SKPD5AEGD8@uEDOooLYx
+        username: SofianeMaimoune93
+        password: 6JGP^(7i&zTKYP3IE#yq
         server-dir : public_html/
